@@ -1,0 +1,11 @@
+Package: cdlujan.ejercicio.extra
+Type: Package
+Title: Funciones de sin sentido
+Version: 0.1.0
+Authors@R: person("Carlos D.","Luján", email = "carlos.lujan@live.u-tad.com", role = "cre")
+Maintainer: <Nomaintainer@nomaintainer.es>
+Description: Varias funciones sin utilidad para evaluación de una asignatura.
+License: CCO
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
