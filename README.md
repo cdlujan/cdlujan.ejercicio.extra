@@ -3,7 +3,7 @@
 cdlujan.ejercicio.extra
 =======================
 
-The goal of cdlujan.ejercicio.extra is to be used as an excercise of how to create a R package.
+The goal of cdlujan.ejercicio.extra is to be used as an excercise on how to create a R package.
 
 Installation
 ------------
